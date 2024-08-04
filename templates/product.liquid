@@ -1,0 +1,10 @@
+{% section 'header' %}
+
+<div class="product-detail">
+  <h1>{{ product.title }}</h1>
+  <img src="{{ product.featured_image | img_url: 'large' }}" alt="{{ product.title }}" >
+  <p>{{ product.description }}</p>
+  <p>{{ product.price | money }}</p>
+</div>
+
+{% section 'footer' %}

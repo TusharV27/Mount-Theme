@@ -1,0 +1,19 @@
+[
+    {
+      "name": "theme_info",
+      "settings": [
+        {
+          "type": "text",
+          "id": "theme_name",
+          "label": "Theme Name",
+          "default": "My Shopify Theme"
+        }
+      ],
+      "theme_support_email":"tkvaghasiya27@gmail.com",
+      "theme_name": "mount-theme",
+      "theme_author": "Tushar Vaghasiya",
+      "theme_documentation_url": "https://localhost:3000",
+      "theme_version": "1.0"
+    },
+    {}
+  ]  
